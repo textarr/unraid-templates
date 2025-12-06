@@ -5,7 +5,7 @@
   <Registry>https://github.com/textarr/textarr/pkgs/container/textarr</Registry>
   <Network>bridge</Network>
   <Privileged>false</Privileged>
-  <Support>https://github.com/textarr/textarr/issues</Support>
+  <Support>https://forums.unraid.net/topic/195615-support-textarr-ai-powered-media-requests-via-telegram-discord-slack-sms/</Support>
   <Project>https://github.com/textarr/textarr</Project>
   <Overview>AI-powered media request bot for Sonarr and Radarr. Supports Telegram, Discord, Slack (no port forwarding needed), and SMS via Twilio (requires Tailscale Funnel or Cloudflare Tunnel for webhooks). Configure everything through the web UI.</Overview>
   <Category>MediaApp:Other Tools:</Category>
